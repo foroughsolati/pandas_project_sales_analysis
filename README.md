@@ -30,3 +30,7 @@ Mini project for sales data analysis using pandas
 
 ## Solution
 - کدهای مربوطه در `sales_analysis.ipynb`
+- ## How to Run
+1. دیتاست `sales_data.csv` رو تو همین فولدر قرار بدین.
+2. فایل `sales_analysis.ipynb` رو تو Jupyter Notebook باز کنید.
+3. سلول‌ها رو به ترتیب اجرا کنید تا جواب سوال‌ها رو ببینید.
